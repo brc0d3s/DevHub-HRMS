@@ -3,23 +3,23 @@
 
 ## Features
 
-- **Employee Management:**
+- **Employee Management**
 
-- **Attendance Tracking:** 
+- **Attendance Tracking** 
 
-- **Leave Management:** 
+- **Leave Management** 
 
-- **Performance Evaluation:** 
+- **Performance Evaluation** 
 
-- **Task and Project Management:**
+- **Task and Project Management**
 
-- **Reports and Analytics:** 
+- **Reports and Analytics** 
 
 ## Technologies Used
 
-- **ASP.NET Core:** 
+- **ASP.NET Core** 
 
-- **Entity Framework Core:** 
+- **Entity Framework Core** 
 
-- **PostgreSQL:** 
+- **PostgreSQL** 
 
