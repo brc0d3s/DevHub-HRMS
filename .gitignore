@@ -1,4 +1,3 @@
-DevHub.Tests
 
 .vs
 
@@ -8,6 +7,3 @@ DevHub/bin
 
 DevHub/obj
 
-DevHub/Global.asax
-
-DevHub/Global.asax.cs
