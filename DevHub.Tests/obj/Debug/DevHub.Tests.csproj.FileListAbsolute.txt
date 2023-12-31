@@ -1,0 +1,11 @@
+/home/brc0d3s/Projects/DevHub/DevHub.Tests/bin/Debug/DevHub.Tests.dll
+/home/brc0d3s/Projects/DevHub/DevHub.Tests/bin/Debug/DevHub.Tests.pdb
+/home/brc0d3s/Projects/DevHub/DevHub.Tests/bin/Debug/DevHub.dll
+/home/brc0d3s/Projects/DevHub/DevHub.Tests/bin/Debug/nunit.framework.dll
+/home/brc0d3s/Projects/DevHub/DevHub.Tests/bin/Debug/DevHub.pdb
+/home/brc0d3s/Projects/DevHub/DevHub.Tests/bin/Debug/nunit.framework.xml
+/home/brc0d3s/Projects/DevHub/DevHub.Tests/obj/Debug/DevHub.Tests.csproj.AssemblyReference.cache
+/home/brc0d3s/Projects/DevHub/DevHub.Tests/obj/Debug/DevHub.Tests.csproj.CoreCompileInputs.cache
+/home/brc0d3s/Projects/DevHub/DevHub.Tests/obj/Debug/DevHub.Tests.csproj.CopyComplete
+/home/brc0d3s/Projects/DevHub/DevHub.Tests/obj/Debug/DevHub.Tests.dll
+/home/brc0d3s/Projects/DevHub/DevHub.Tests/obj/Debug/DevHub.Tests.pdb
