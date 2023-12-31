@@ -1,6 +1,6 @@
-./DevHub.Tests
+../DevHub.Tests
 
-.vs
+../.vs
 
-./packages
+../packages
 
