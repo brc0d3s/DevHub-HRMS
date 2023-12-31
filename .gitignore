@@ -4,3 +4,10 @@ DevHub.Tests
 
 packages
 
+DevHub/bin
+
+DevHub/obj
+
+DevHub/Global.asax
+
+DevHub/Global.cs
